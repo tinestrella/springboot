@@ -1,2 +1,7 @@
 ---
 lucky-word: Bingo
+
+---
+spring:
+  profiles: northamerica
+  lucky-word: Rabbit's Foot
